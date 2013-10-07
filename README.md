@@ -1,4 +1,4 @@
 SampleRepository
 ================
 
-KitTest
+GitTest
